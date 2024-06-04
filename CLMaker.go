@@ -24,8 +24,8 @@ func checkStringWithWordList(string_thing string, word_list []string, company st
 func generatePDF(content string, filename string) error {
 	pdf := gofpdf.New("P", "mm", "A4", "")
 	pdf.AddPage()
-	pdf.SetFont("Arial", "B", 12)
-	pdf.MultiCell(190, 10, content, "", "", false)
+	pdf.SetFont("Arial", "", 12)
+	pdf.MultiCell(190, 6, content, "", "", false)
 	return pdf.OutputFileAndClose(filename)
 }
 
