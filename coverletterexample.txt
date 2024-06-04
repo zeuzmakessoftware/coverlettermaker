@@ -1,6 +1,6 @@
 Dear [company],
 
-I am writing to express my interest in the [Position Title] position at [company]. With a strong background in software engineering and a passion for developing innovative solutions, I am excited about the opportunity to contribute to your team. I have honed my skills in various programming languages, including Go, TypeScript, and JavaScript, and have extensive experience with frameworks and libraries such as React, Vue.js, and Tailwind CSS.
+I am writing to express my interest in the [position] position at [company]. With a strong background in software engineering and a passion for developing innovative solutions, I am excited about the opportunity to contribute to your team. I have honed my skills in various programming languages, including Go, TypeScript, and JavaScript, and have extensive experience with frameworks and libraries such as React, Vue.js, and Tailwind CSS.
 
 In my most recent role, I led a team of developers to design and implement a modern search box using Tailwind CSS, enhancing user experience and performance. Additionally, I developed a Go-based news aggregation API, ensuring efficient data retrieval and processing. My work on these projects has equipped me with a strong understanding of both front-end and back-end development, as well as the ability to tackle complex technical challenges.
 
